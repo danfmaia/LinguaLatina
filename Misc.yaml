@@ -1,0 +1,46 @@
+Adverbia:
+  - bene
+  - cō̆tīdiē
+  - ita
+  - male
+  - minime
+  - num
+  - nunc
+  - quaesō
+  - quid
+  - quō
+  - quōmodo
+  - quoque
+  - ubi/ubī
+  - unde
+
+Coniunctiones:
+  - et
+  - sed
+
+Determinatores:
+  - quantum
+  - quot
+
+Interiectiones:
+  - salvē
+  - salvēte
+
+Numeralias:
+  Declinabilia:
+    # m, n, f
+    - duo, duo, duae
+    - trēs, tria, trēs (3a Decl., 2-Term)
+  Indeclinabilia:
+    - quattuor
+    - decem
+    - vīgintī
+    - trīgintā
+
+Particulae:
+  - nōn
+
+Praepositiones:
+  - ā (+ Abl.)
+  - ab (+ Abl.)
+  - ad (+ Acc.)
