@@ -1,0 +1,41 @@
+{
+  "[plaintext]": {
+    "editor.fontFamily": "'Noto Sans', 'monospace', monospace",
+    "editor.fontSize": 18,
+    "editor.letterSpacing": 0.2
+  },
+
+  "[yaml]": {
+    "editor.fontFamily": "'Noto Sans', 'monospace', monospace",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "editor.rulers": [80]
+  },
+
+  // extend plaintext settings to other files
+  "files.associations": {
+    "*.plaintext": "plaintext"
+    // "*.md": "md",
+    // "*.md": "plaintext",
+  },
+  "markdown.preview.fontFamily": "'Noto Sans', 'Droid Sans Mono', 'monospace', monospace",
+  "markdown.preview.fontSize": 18,
+
+  "[markdown]": {
+    "editor.tabSize": 2
+  },
+
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.rulers": [80]
+  },
+  "autopep8.args": ["--max-line-length=79"],
+
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.autoFormatStrings": true
+}
