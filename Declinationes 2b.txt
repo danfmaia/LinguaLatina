@@ -1,0 +1,23 @@
+Declina-|  1a   |  2a   |  3a   |  3a   |  3a   |  4a   |  5a
+ tiones |  (a)  |  (o)  |  (C)  |  (i)  | (mix) |  (u)  |  (e)
+Latinae |  f*   |  m*/n | m&f/n | m&f/n | m&f/n |  m*/n |  f*
+--------|-------|-------|-------|-------|-------|-------|-------
+    Nom | -a    | -us/um| -X    |       |       | -us/ū | -ēs
+    Acc | -am   | -um/um| -em/X |       |       | -um/ū | -em
+s.  Gen | -ae   | -ī    | -is   |       |       | -ūs   | -eī
+    Dat | -ae   | -ō    | -ī    |       |       | -uī/ū | -eī
+    Abl | -ā    | -ō    | -e    | -ī    |       | -ū    | -ē
+--------|-------|-------|-------|-------|-------|-------|-------
+    Nom | -ae   | -ī /a | -ēs/a | -ēs/ia| -ēs/a | -ūs/ua| -ēs
+    Acc | -ās   | -ōs/a |   N.  |   N.  |   N.  |   N.  |   N.
+pl. Gen | -ārum | -ōrum | -um   | -ium  | -ium  | -uum  | -ērum
+    Dat | -īs   | -īs   | -ibus |       |       | -ibus | -ēbus
+    Abl |   D.  |   D.  |   D.  |       |       |   D.  |   D.  
+--------|-------|-------|-------|-------|-------|-------|-------
+
+Legenda:
+
+- N.: igual ao caso Nom.
+- D.: igual ao caso Dat.
+- X: terminação especial variável
+
