@@ -1,6 +1,6 @@
 {
   "[plaintext]": {
-    "editor.fontFamily": "'Noto Sans', 'monospace', monospace",
+    "editor.fontFamily": "'monospace', monospace",
     "editor.fontSize": 18,
     "editor.letterSpacing": 0.2
   },
