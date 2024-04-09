@@ -7,10 +7,10 @@ Latinae |  f*   |  m*/n | m&f/n | m&f/n | m&f/n |  m*/n |  f*
     Acc | -am   | -um/um| -em/X |       |       | -um/ū | -em
 s.  Gen | -ae   | -ī    | -is   |       |       | -ūs   | -eī
     Dat | -ae   | -ō    | -ī    |       |       | -uī/ū | -eī
-    Abl | -ā    | -ō    | -e    | -ī    |       | -ū    | -ē
+    Abl | -ā    | -ō    | -e    | -e/-ī |       | -ū    | -ē
 --------|-------|-------|-------|-------|-------|-------|-------
-    Nom | -ae   | -ī /a | -ēs/a | -ēs/ia| -ēs/a | -ūs/ua| -ēs
-    Acc | -ās   | -ōs/a |   N.  |   N.  |   N.  |   N.  |   N.
+    Nom | -ae   | -ī /a | -ēs/a | -ēs/ia|       | -ūs/ua| -ēs
+    Acc | -ās   | -ōs/a |   N.  |   N.  |       |   N.  |   N.
 pl. Gen | -ārum | -ōrum | -um   | -ium  | -ium  | -uum  | -ērum
     Dat | -īs   | -īs   | -ibus |       |       | -ibus | -ēbus
     Abl |   D.  |   D.  |   D.  |       |       |   D.  |   D.  
