@@ -5,7 +5,7 @@ Latinae |  f*   |  m*/n | m&f/n | m&f/n | m&f/n |  m*/n |  f*
 --------|-------|-------|-------|-------|-------|-------|-------
     Nom | -a    | -us/um| -X    |       |       | -us/ū | -ēs
     Acc | -am   | -um/um| -em/X |       |       | -um/ū | -em
-s.  Gen | -ae   | -ī    | -is   |       |       | -ūs   | -eī
+sg. Gen | -ae   | -ī    | -is   |       |       | -ūs   | -eī
     Dat | -ae   | -ō    | -ī    |       |       | -uī/ū | -eī
     Abl | -ā    | -ō    | -e    | -e/-ī |       | -ū    | -ē
 --------|-------|-------|-------|-------|-------|-------|-------
@@ -18,6 +18,9 @@ pl. Gen | -ārum | -ōrum | -um   | -ium  | -ium  | -uum  | -ērum
 
 Legenda:
 
-- N.: igual ao caso Nom.
-- D.: igual ao caso Dat.
-- X:  terminação especial variável
+- sg.: singular
+- pl.: plural
+- *  : gênero predominantemente da Declinação
+- N. : igual ao Caso Nom.
+- D. : igual ao Caso Dat.
+- X  : terminação especial variável
