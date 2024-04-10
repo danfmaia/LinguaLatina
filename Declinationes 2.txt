@@ -20,7 +20,7 @@ Legenda:
 
 - sg.: singular
 - pl.: plural
-- *  : gênero predominantemente da Declinação
+- *  : gênero predominantemente da declinação
 - N. : igual ao Caso Nom.
 - D. : igual ao Caso Dat.
 - X  : terminação especial variável
